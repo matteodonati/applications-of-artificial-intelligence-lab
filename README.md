@@ -7,7 +7,9 @@ Laboratory lectures for the "Applications of Artificial Intelligence - Biology a
 - 01/03/2024 <br>
 [PyTorch Basics](./notebooks/0-pytorch-basics.ipynb) <br>
 - 08/03/2024 <br>
-[Convolutional Neural Networks](./notebooks/1-cnns.ipynb)
+[Convolutional Neural Networks](./notebooks/1-cnns.ipynb) <br>
+- 22/03/2024 <br>
+[Recurrent Neural Networks](./notebooks/2-rnns.ipynb)
 
 ## How to Use
 
