@@ -9,7 +9,8 @@ Laboratory lectures for the "Applications of Artificial Intelligence - Biology a
 - 08/03/2024 <br>
 [Convolutional Neural Networks](./notebooks/1-cnns.ipynb) <br>
 - 22/03/2024 <br>
-[Recurrent Neural Networks](./notebooks/2-rnns.ipynb)
+[Recurrent Neural Networks](./notebooks/2-rnns.ipynb) <br>
+[Exercises](./notebooks/3-exercises.ipynb) <br>
 
 ## How to Use
 
